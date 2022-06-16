@@ -1048,7 +1048,7 @@ bool getLuckyCoin = false;	//是否有幸运金币
 // 主角信息
 int Warrior::highlevel = 1;
 
-Warrior w(1, 1200, 120, 120, 20, 1, 1, 0, 39, 40, 0);
+Warrior w(1, 1200, 120, 120, 20, 0, 0, 0, 39, 40, 0);
 
 bool Warrior::Fight(Monster m)
 {
@@ -1099,7 +1099,6 @@ void usemagickey()
 	}
 	return;
 }
-
 
 void useearthquake()
 {
@@ -3432,7 +3431,7 @@ void Welcome()
 	//输出Source
 	settextstyle(200, 35, _T("Blackadder ITC"));
 	settextcolor(YELLOW);
-	outtextxy(100, 100, _T("Tower  of  Magic"));
+	outtextxy(30, 100, _T("Tower of the Sorcerer"));
 
 	//输出按回车键开始游戏
 	settextstyle(30, 20, _T("黑体"));
@@ -3441,7 +3440,7 @@ void Welcome()
 
 	//输出作者
 	settextstyle(16, 16, _T("宋体"));
-	outtextxy(500, 630, _T("作者:SYH 协助:LSY"));
+	outtextxy(500, 630, _T("作者:DrSHW 协助:LSY"));
 
 	//如果按了回车就开始游戏
 	while (1)
