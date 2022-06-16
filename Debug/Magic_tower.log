@@ -1,0 +1,66 @@
+﻿  Magic_tower.cpp
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(1055,31): warning C4101: “ID”: 未引用的局部变量
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(1458,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(1459,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3539,22): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3540,19): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3541,24): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3542,28): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3543,25): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3544,24): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3545,23): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3546,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3547,20): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3548,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3549,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3550,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3551,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3552,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3553,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3554,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3555,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3556,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3557,25): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3558,25): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3559,25): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3560,25): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3561,25): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3562,25): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3563,25): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3564,25): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3565,25): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3566,21): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3567,22): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3568,20): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3569,30): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3570,24): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3571,22): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3572,28): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3573,18): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3574,20): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3575,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3576,24): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3577,24): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3578,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3579,31): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3580,30): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3581,25): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3582,24): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3583,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3584,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3585,28): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3586,27): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3587,27): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3588,26): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3589,24): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3590,28): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3591,25): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3592,24): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3593,22): warning C4002: 类函数宏的调用“_T”参数过多
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3849,13): warning C4101: “loss”: 未引用的局部变量
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3850,7): warning C4101: “con”: 未引用的局部变量
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3849,6): warning C4101: “count”: 未引用的局部变量
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(3849,23): warning C4101: “HP”: 未引用的局部变量
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(6588,71): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Magic_tower.cpp(6592,74): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Magic_tower.vcxproj -> D:\Oldfile\残党\Magic_Tower_Beta_1.3.1\Debug\Magic_tower.exe
